@@ -1,3 +1,4 @@
+/Users/sahilagrawal/Documents/Projects/Smart-Ticketing/ticket-service/src/main/java/com/ticketing/ticketservice/config/CorsConfig.java
 /Users/sahilagrawal/Documents/Projects/Smart-Ticketing/ticket-service/src/main/java/com/ticketing/ticketservice/config/KafkaConfig.java
 /Users/sahilagrawal/Documents/Projects/Smart-Ticketing/ticket-service/src/main/java/com/ticketing/ticketservice/exception/ResourceNotFoundException.java
 /Users/sahilagrawal/Documents/Projects/Smart-Ticketing/ticket-service/src/main/java/com/ticketing/ticketservice/model/Ticket.java
